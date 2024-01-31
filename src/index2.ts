@@ -1,5 +1,4 @@
-const axios = require("axios");
-
+import axios from "axios"
 interface Result {
   data: object;
   status: number;
